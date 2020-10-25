@@ -1,0 +1,4 @@
+Editer le fichier include/config.php et inserer vos donnees.
+C'est tout.
+
+Saludos.
